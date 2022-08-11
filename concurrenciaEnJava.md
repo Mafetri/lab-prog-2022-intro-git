@@ -77,3 +77,12 @@ index 0000000..ad5d2b6
 +        }
 :
 
+------------------------------------------------------
+13.
+
+	Hay 5 ramas:
+		- master (donde se aloja las versiones finales a publicar con sus respectivos tags de version)
+		- release (supongo que es la rama previa a unir los cambios de "develop" con la master)
+		- develop: es en la rama donde se van haciendo los cambios
+		- feature 1 o 2: son ramas transitorias en las cuales se desarrollan, de manera verde, las features a desarrollar sin tocar la rama de desarrollo, una vez que estas features estan completas se la une a la rama de desarrollo.
+
